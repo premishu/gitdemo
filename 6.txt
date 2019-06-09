@@ -1,2 +1,6 @@
 six text file created
+<<<<<<< HEAD
 testing area
+=======
+changed done by me
+>>>>>>> c41f0414ab316bef84bbc5829faff7cf7232b6a7
